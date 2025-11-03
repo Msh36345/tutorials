@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ec15d64-2784-4b8f-8381-84c0ba4480c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Data/Projects/16 Elasticsearch/Elasticsearch step by step/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data/Projects/16 Elasticsearch/Elasticsearch_exe/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data/Projects/16 Elasticsearch/Elasticsearch_exe/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/Projects/16 Elasticsearch/ElasticSearch_Python_Course-main/notebooks/3_create_index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Data/Projects/16 Elasticsearch/ElasticSearch_Python_Course-main/notebooks/3_create_index.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/Projects/16 Elasticsearch/ElasticSearch_Python_Course-main/notebooks/4_index_documents.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Data/Projects/16 Elasticsearch/ElasticSearch_Python_Course-main/notebooks/4_index_documents.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/Projects/16 Elasticsearch/ElasticSearch_Python_Course-main/notebooks/5_field_data_types.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Data/Projects/16 Elasticsearch/ElasticSearch_Python_Course-main/notebooks/5_field_data_types.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/PythonProjectsSubmi" beforeDir="false" afterPath="$PROJECT_DIR$/../Data/PythonProjectsSubmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/.idea/Gamatron6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/books/The Intersection of Programming, Digital Technology, and Judaism.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/books/digital life.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/books/faith in the digital age.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/books/jewish heritage.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/books/programming and technology.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/books/tech and judaism.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gamatron6/תרגיל קודקוד.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/.idea/keylogger_part_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/encryption.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/hide_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/key.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/mac_keylogger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part1/קובץהסבר.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.idea/KEYLOGGER-PROJECT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.vs/KEYLOGGER-PROJECT/FileContentIndex/05e48248-46e3-42b4-991b-c3b243745def.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.vs/KEYLOGGER-PROJECT/FileContentIndex/2bf790e0-dbe7-4979-9bc9-251f7e24f7c9.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.vs/KEYLOGGER-PROJECT/FileContentIndex/4b831199-b8e0-42c4-865d-badd62ecfa60.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.vs/KEYLOGGER-PROJECT/FileContentIndex/c3b6b75c-f42a-46bf-8413-3235ee370449.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.vs/KEYLOGGER-PROJECT/v17/.wsuo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.vs/KEYLOGGER-PROJECT/v17/DocumentLayout.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/Demo/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/Demo/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/Demo/index (2).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/Demo/index (4).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/Demo/index (5).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/Encrypt_Decrypt/decrypt_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/Encrypt_Decrypt/encrypt_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/KEYLOGGER_client_side/KeyLogger_Manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/KEYLOGGER_client_side/KeyLogger_Service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/KEYLOGGER_client_side/Network_Writer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/KEYLOGGER_client_side/Write_to_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/New Folder With Items/index (1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/New Folder With Items/index (2).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/New Folder With Items/index (3).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/New Folder With Items/index (4).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/New Folder With Items/index (5).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/New Folder With Items/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/Server_side/Flask_Server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/Server_side/front.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/Server_side/front_design.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/Server_side/front_html_script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/Server_side/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/Server_side/login_design.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/Server_side/stop_by_mac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/UserManager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/berale/connection_servers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/berale/front_berale/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/berale/front_berale/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/berale/front_berale/server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/berale/front_berale/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/berale/login improvement/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/berale/login improvement/server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/berale/login improvement/style2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/berale/ממשק/פרומפט.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/berale/ממשק/‏‏לפני פרומט.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/berale/ממשק/‏‏‫ראשוני.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/berale/פונקציות צד שרת.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/berale/פונקציות שרת/מילולי ראשוני.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/key.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyLogger/part2/side defs.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Msh36345"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Msh36345/python.git",
+    "accountId": "773a518e-011a-4198-b796-a88f1119c942"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="34hKGLWa8xaSwuNZeYsHC7uL1LM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.demo_example.executor": "Run",
+    "Python.polars_missing_values_executable.executor": "Run",
+    "Python.polars_strings_examples.executor": "Run",
+    "Python.polars_time_series_code.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/mosheshulman/PycharmProjects/Polars",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.jupyter.py.connections.configurable.JupyterServersConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515" />
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ec15d64-2784-4b8f-8381-84c0ba4480c3" name="Changes" comment="" />
+      <created>1733911454841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733911454841</updated>
+      <workItem from="1761660267674" duration="2848000" />
+      <workItem from="1761728588988" duration="17685000" />
+      <workItem from="1761810112259" duration="1401000" />
+      <workItem from="1761812442365" duration="176000" />
+      <workItem from="1761813371745" duration="3209000" />
+      <workItem from="1762069583528" duration="115000" />
+      <workItem from="1762069716832" duration="1014000" />
+      <workItem from="1762070753918" duration="216000" />
+      <workItem from="1762070985461" duration="82000" />
+      <workItem from="1762071094955" duration="242000" />
+      <workItem from="1762071364653" duration="112000" />
+      <workItem from="1762077368263" duration="109000" />
+      <workItem from="1762077623140" duration="875000" />
+      <workItem from="1762080701781" duration="1570000" />
+      <workItem from="1762155194989" duration="3269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled_folder$polars_missing_values_executable.coverage" NAME="polars_missing_values_executable Coverage Results" MODIFIED="1761736192062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5" />
+    <SUITE FILE_PATH="coverage/untitled_folder$demo_example.coverage" NAME="demo_example Coverage Results" MODIFIED="1761737241705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5" />
+    <SUITE FILE_PATH="coverage/untitled_folder$polars_strings_examples.coverage" NAME="polars_strings_examples Coverage Results" MODIFIED="1761740540992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6" />
+    <SUITE FILE_PATH="coverage/Polars$polars_time_series_code.coverage" NAME="polars_time_series_code Coverage Results" MODIFIED="1762080839571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9" />
+  </component>
+</project>
