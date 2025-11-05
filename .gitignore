@@ -1,0 +1,63 @@
+# ========== PyCharm ==========
+.idea/
+*.iml
+*.iws
+
+# ========== Python ==========
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# MyPy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# ========== VSCode ==========
+.vscode/
+
+# ========== C# / .NET ==========
+bin/
+obj/
+TestResults/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+packages/
+*.nupkg
+*.dll
+*.pdb
+*.cache
+*.ilk
+_ReSharper*/
+*.ReSharper
+*.userprefs
+*.vspscc
+*.sqlite
+*.tar.gz
+
+# ========== Rider ==========
+.idea/
+*.sln.iml
+
+# ========== Mac ==========
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes

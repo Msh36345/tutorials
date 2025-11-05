@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ec15d64-2784-4b8f-8381-84c0ba4480c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../PySpark/into.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/01_מדריך_מקיף_Polars.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1/01_מדריך_מקיף_Polars.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/02_קובץ_Python_מוכן_להרצה.py" beforeDir="false" afterPath="$PROJECT_DIR$/1/02_קובץ_Python_מוכן_להרצה.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10/polars_interoperability_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10/polars_interoperability_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11/polars_cloud_sources_guide.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11/polars_cloud_sources_guide.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12/polars_exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/12/polars_exercises.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12/polars_testing_debugging_guide.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/12/polars_testing_debugging_guide.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/polars_io_comprehensive_hebrew.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2/polars_io_comprehensive_hebrew.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/polars_guide_hebrew.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3/polars_guide_hebrew.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/polars_data_transformation_guide.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4/polars_data_transformation_guide.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/polars_missing_values_interactive.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5/polars_missing_values_interactive.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6/polars_strings_interactive.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/6/polars_strings_interactive.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7/polars_nested_data_structures_hebrew.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/7/polars_nested_data_structures_hebrew.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8/polars_reshaping.py" beforeDir="false" afterPath="$PROJECT_DIR$/8/polars_reshaping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8/polars_reshaping_guide.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8/polars_reshaping_guide.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9/polars_time_series_guide.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/9/polars_time_series_guide.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PySpark/into.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PySpark/into.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +95,7 @@
       <workItem from="1762267463243" duration="1917000" />
       <workItem from="1762333835699" duration="4471000" />
       <workItem from="1762343271747" duration="1510000" />
-      <workItem from="1762344834630" duration="6493000" />
+      <workItem from="1762344834630" duration="6882000" />
     </task>
     <servers />
   </component>
