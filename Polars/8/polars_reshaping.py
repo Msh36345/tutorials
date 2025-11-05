@@ -36,10 +36,6 @@ def load_and_prepare_data(file_path='../data/academic.csv'):
         
     Returns:
         pl.DataFrame: DataFrame מעובד ומוכן
-        
-    דוגמה:
-        >>> df = load_and_prepare_data()
-        >>> print(df.shape)
     """
     print_section("טעינה והכנת נתונים")
     
@@ -258,7 +254,7 @@ def demo_join():
     
     # Outer Join
     print("\n3. Outer Join (כל השורות משתי הטבלאות):")
-    outer_result = df1.join(df2, on='id', how='outer')
+    outer_result = df1.join(df2, on='id', how='full')
     print(outer_result)
     
     return inner_result

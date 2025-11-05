@@ -52,10 +52,6 @@ def create_simple_dataframe():
     
     Returns:
         pl.DataFrame: DataFrame עם עמודות nums ו-letters
-    
-    דוגמה:
-        >>> df = create_simple_dataframe()
-        >>> print(df)
     """
     print("\n" + "="*70)
     print("1️⃣  יצירת DataFrame פשוט")
@@ -374,11 +370,12 @@ def large_files_techniques(filepath: str = '../data/titanic_dataset.csv'):
     result_stream = (
         pl.scan_csv(filepath)
         .filter(pl.col('Survived') == 1)
-        .group_by('Sex').agg([
-            pl.count().alias('count'),
+        .group_by('Sex')
+        .agg([
+            pl.len().alias('count'),
             pl.col('Age').mean().alias('avg_age')
         ])
-        .collect(streaming=True)
+        .collect()
     )
     print(result_stream)
     
