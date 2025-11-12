@@ -1,3 +1,9 @@
+<style>
+    body, * {
+        direction: rtl !important;
+        text-align: right !important;
+    }
+</style>
 # Polars בעברית — מדריכים מבוססי AI  
 אוסף מחברות Jupyter שהוסבו למדריכים כתובים בעברית, בעזרת בינה מלאכותית, מתוך [Polars Cookbook](https://github.com/PacktPublishing/Polars-Cookbook).
 
