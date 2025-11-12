@@ -4,7 +4,7 @@
         text-align: right !important;
     }
 </style>
-# Polars בעברית — מדריכים מבוססי AI  
+# Polars מדריך  
 אוסף מחברות Jupyter שהוסבו למדריכים כתובים בעברית, בעזרת בינה מלאכותית, מתוך [Polars Cookbook](https://github.com/PacktPublishing/Polars-Cookbook).
 
 המטרה: להפוך את התוכן הטכני לנגיש וברור לקהל דובר עברית, תוך שמירה על הדיוק והדוגמאות המקוריות.
