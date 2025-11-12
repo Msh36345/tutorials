@@ -1,12 +1,9 @@
-<style>
-    body, * {
-        direction: rtl !important;
-        text-align: right !important;
-    }
-</style>
-# Polars מדריך  
+<div dir="rtl">
+    
+# מדריך Polars
 אוסף מחברות Jupyter שהוסבו למדריכים כתובים בעברית, בעזרת בינה מלאכותית, מתוך [Polars Cookbook](https://github.com/PacktPublishing/Polars-Cookbook).
 
 המטרה: להפוך את התוכן הטכני לנגיש וברור לקהל דובר עברית, תוך שמירה על הדיוק והדוגמאות המקוריות.
 
 > ⚙️ כל המדריכים נוצרו אוטומטית בעזרת AI ועברו התאמה לשפה, ניסוח והבהרה — כמעט ללא שינוי בתוכן המקצועי.
+</div>
